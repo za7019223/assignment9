@@ -1,0 +1,38 @@
+#hadding{
+    text-align: center;
+}
+
+.calculator{
+
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: gray;
+}
+
+#screen{
+    color: wheat;
+    background-color: black;
+    width: 307px;
+    height: 70px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+#table{   
+    
+}
+button{
+    padding: 10px;
+    font-size: 30px;
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    
+}
+#plus{
+    color: wheat;
+    background-color:darkred;
+}
+#zero{
+    color: wheat;
+    background-color: darkgreen;
+}
